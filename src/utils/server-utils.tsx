@@ -1,3 +1,4 @@
+// librairie pour éviter de rendre ce code dans un comoposant coté client
 import "server-only";
 
 export const serverSideFunction = () => {
